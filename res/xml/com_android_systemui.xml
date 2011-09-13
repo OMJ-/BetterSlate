@@ -6,7 +6,6 @@
 <item name="drawable/com_android_systemui_btn_default_small_pressed">@drawable/com_android_systemui_btn_default_small_pressed</item>
 <item name="drawable/com_android_systemui_btn_default_small_selected">@drawable/com_android_systemui_btn_default_small_selected</item>
 <item name="drawable/com_android_systemui_common_music_progress_fill">@drawable/com_android_systemui_common_music_progress_fill</item>
-<item name="drawable/com_android_systemui_common_progress_fill">@drawable/com_android_systemui_common_progress_fill</item>
 <item name="drawable/com_android_systemui_ic_launcher_settings">@drawable/com_android_systemui_ic_launcher_settings</item>
 <item name="drawable/com_android_systemui_ic_notification_overlay">@drawable/com_android_systemui_ic_notification_overlay</item>
 <item name="drawable/com_android_systemui_ic_settings_bluetooth">@drawable/com_android_systemui_ic_settings_bluetooth</item>
@@ -44,7 +43,6 @@
 <item name="drawable/com_android_systemui_stat_sys_wifi_signal_4">@drawable/com_android_systemui_stat_sys_wifi_signal_4</item>
 <item name="drawable/com_android_systemui_status_bar_background">@drawable/com_android_systemui_status_bar_background</item>
 <item name="drawable/com_android_systemui_statusbar_background">@drawable/com_android_systemui_statusbar_background</item>
-<item name="drawable/com_android_systemui_status_bar_close_on_2">@drawable/com_android_systemui_status_bar_close_on_2</item>
 <item name="drawable/com_android_systemui_status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
 <item name="drawable/com_android_systemui_status_bar_header_background">@drawable/com_android_systemui_status_bar_header_background</item>
 <item name="drawable/com_android_systemui_status_bar_icons_tile">@drawable/com_android_systemui_status_bar_icons_tile</item>
