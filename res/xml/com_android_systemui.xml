@@ -48,4 +48,32 @@
     <item name="drawable/status_bar_item_background_focus">@drawable/com_android_systemui_status_bar_item_background_focus</item>
     <item name="drawable/status_bar_item_background_normal">@drawable/com_android_systemui_status_bar_item_background_normal</item>
     <item name="drawable/status_bar_item_background_pressed">@drawable/com_android_systemui_status_bar_item_background_pressed</item>
+    <item name="drawable/stat_2g3g_off">@drawable/com_android_systemui_stat_2g3g_off</item>
+    <item name="drawable/stat_2g3g_on">@drawable/com_android_systemui_stat_2g3g_on</item>
+    <item name="drawable/stat_3g_on">@drawable/com_android_systemui_stat_3g_on</item>
+    <item name="drawable/stat_airplane_off">@drawable/com_android_systemui_stat_airplane_off</item>
+    <item name="drawable/stat_airplane_on">@drawable/com_android_systemui_stat_airplane_on</item>
+    <item name="drawable/stat_bluetooth_off">@drawable/com_android_systemui_stat_bluetooth_off</item>
+    <item name="drawable/stat_bluetooth_on">@drawable/com_android_systemui_stat_bluetooth_on</item>
+    <item name="drawable/stat_brightness_auto">@drawable/com_android_systemui_stat_brightness_auto</item>
+    <item name="drawable/stat_brightness_mid">@drawable/com_android_systemui_stat_brightness_mid</item>
+    <item name="drawable/stat_brightness_off">@drawable/com_android_systemui_stat_brightness_off</item>
+    <item name="drawable/stat_brightness_on">@drawable/com_android_systemui_stat_brightness_on</item>
+    <item name="drawable/stat_data_off">@drawable/com_android_systemui_stat_data_off</item>
+    <item name="drawable/stat_data_on">@drawable/com_android_systemui_stat_data_on</item>
+    <item name="drawable/stat_flashlight_off">@drawable/com_android_systemui_stat_flashlight_off</item>
+    <item name="drawable/stat_flashlight_on">@drawable/com_android_systemui_stat_flashlight_on</item>
+    <item name="drawable/stat_gps_off">@drawable/com_android_systemui_stat_gps_off</item>
+    <item name="drawable/stat_gps_on">@drawable/com_android_systemui_stat_gps_on</item>
+    <item name="drawable/stat_lock_screen_off">@drawable/com_android_systemui_stat_lock_screen_off</item>
+    <item name="drawable/stat_lock_screen_on">@drawable/com_android_systemui_stat_lock_screen_on</item>
+    <item name="drawable/stat_silent">@drawable/com_android_systemui_stat_silent</item>
+    <item name="drawable/stat_sleep">@drawable/com_android_systemui_stat_sleep</item>
+    <item name="drawable/stat_vibrate_off">@drawable/com_android_systemui_stat_vibrate_off</item>
+    <item name="drawable/stat_vibrate_on">@drawable/com_android_systemui_stat_vibrate_on</item>
+    <item name="drawable/stat_wifi_ap_off">@drawable/com_android_systemui_stat_wifi_ap_off</item>
+    <item name="drawable/stat_wifi_ap_on">@drawable/com_android_systemui_stat_wifi_ap_on</item>
+    <item name="drawable/stat_wifi_off">@drawable/com_android_systemui_stat_wifi_off</item>
+    <item name="drawable/stat_wifi_on">@drawable/com_android_systemui_stat_wifi_on</item>
+
 </resource-redirections>
