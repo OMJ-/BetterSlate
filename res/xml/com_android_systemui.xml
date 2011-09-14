@@ -7,8 +7,6 @@
     <item name="drawable/btn_default_small_selected">@drawable/com_android_systemui_btn_default_small_selected</item>
     <item name="drawable/ic_launcher_settings">@drawable/com_android_systemui_ic_launcher_settings</item>
     <item name="drawable/ic_notification_overlay">@drawable/com_android_systemui_ic_notification_overlay</item>
-    <item name="drawable/ic_settings_bluetooth">@drawable/com_android_systemui_ic_settings_bluetooth</item>
-    <item name="drawable/ic_settings_wifi">@drawable/com_android_systemui_ic_settings_wifi</item>
     <item name="drawable/shade_bg">@drawable/com_android_systemui_shade_bg</item>
     <item name="drawable/shade_handlebar">@drawable/com_android_systemui_shade_handlebar</item>
     <item name="drawable/shade_header_background">@drawable/com_android_systemui_shade_header_background</item>
@@ -51,7 +49,9 @@
     <item name="drawable/stat_2g3g_off">@drawable/com_android_systemui_stat_2g3g_off</item>
     <item name="drawable/stat_2g3g_on">@drawable/com_android_systemui_stat_2g3g_on</item>
     <item name="drawable/stat_3g_on">@drawable/com_android_systemui_stat_3g_on</item>
-    <item name="drawable/stat_airplane_off">@drawable/com_android_systemui_stat_airplane_off</item>
+    <item name="drawable/stat_airplane_off">@drawable/com_android_systemui_stat_airplane_off</item>    <item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
+    <item name="drawable/stat_sys_ringer_silent">@drawable/com_android_systemui_stat_sys_ringer_silent</item>
+    <item name="drawable/stat_sys_ringer_vibrate">@drawable/com_android_systemui_stat_sys_ringer_vibrate</item>
     <item name="drawable/stat_airplane_on">@drawable/com_android_systemui_stat_airplane_on</item>
     <item name="drawable/stat_bluetooth_off">@drawable/com_android_systemui_stat_bluetooth_off</item>
     <item name="drawable/stat_bluetooth_on">@drawable/com_android_systemui_stat_bluetooth_on</item>
@@ -75,5 +75,7 @@
     <item name="drawable/stat_wifi_ap_on">@drawable/com_android_systemui_stat_wifi_ap_on</item>
     <item name="drawable/stat_wifi_off">@drawable/com_android_systemui_stat_wifi_off</item>
     <item name="drawable/stat_wifi_on">@drawable/com_android_systemui_stat_wifi_on</item>
-
+    <item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
+    <item name="drawable/stat_sys_ringer_silent">@drawable/com_android_systemui_stat_sys_ringer_silent</item>
+    <item name="drawable/stat_sys_ringer_vibrate">@drawable/com_android_systemui_stat_sys_ringer_vibrate</item>
 </resource-redirections>

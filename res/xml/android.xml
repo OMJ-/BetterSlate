@@ -343,9 +343,6 @@
     <item name="drawable/timepicker_up_pressed">@drawable/frameworks_res_timepicker_up_pressed</item>
     <item name="drawable/timepicker_up_selected">@drawable/frameworks_res_timepicker_up_selected</item>
     <item name="drawable/title_bar_portrait">@drawable/frameworks_res_title_bar_portrait</item>
-    <item name="drawable/zzz_btn_search_dialog_voice_pressed">@drawable/frameworks_res_zzz_btn_search_dialog_voice_pressed</item>
-    <item name="drawable/zzz_btn_search_dialog_voice_selected">@drawable/frameworks_res_zzz_btn_search_dialog_voice_selected</item>
-    <item name="drawable/zzz_textfield_search_default">@drawable/frameworks_res_zzz_textfield_search_default</item>
-    <item name="drawable/zzz_textfield_search_pressed">@drawable/frameworks_res_zzz_textfield_search_pressed</item>
-    <item name="drawable/zzz_textfield_search_selected">@drawable/frameworks_res_zzz_textfield_search_selected</item>
+    <item name="drawable/usb_android">@drawable/frameworks_res_usb_android</item>
+    <item name="drawable/usb_android_connected">@drawable/frameworks_res_usb_android_connected</item>
 </resource-redirections>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/hotseat_bg_center">@drawable/com_android_launcher_hotseat_bg_center</item>
+    <item name="drawable/hotseat_bg_left">@drawable/com_android_launcher_hotseat_bg_left</item>
+    <item name="drawable/hotseat_bg_right">@drawable/com_android_launcher_hotseat_bg_right</item>
+</resource-redirections>
