@@ -113,6 +113,5 @@
 	<item name="drawable/stat_sys_data_out_3g.png">@drawable/com_android_systemui_stat_sys_data_out_3g.png</item>
 	<item name="drawable/stat_sys_data_out_e.png">@drawable/com_android_systemui_stat_sys_data_out_e.png</item>
 	<item name="drawable/stat_sys_data_out_g.png">@drawable/com_android_systemui_stat_sys_data_out_g.png</item>
-	<item name="drawable/stat_sys_data_out_h.png">@drawable/com_android_systemui_stat_sys_data_out_h.png</item>
-	
+	<item name="drawable/stat_sys_data_out_h.png">@drawable/com_android_systemui_stat_sys_data_out_h.png</item>	
 </resource-redirections>
