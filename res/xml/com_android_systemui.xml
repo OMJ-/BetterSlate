@@ -49,7 +49,8 @@
     <item name="drawable/stat_2g3g_off">@drawable/com_android_systemui_stat_2g3g_off</item>
     <item name="drawable/stat_2g3g_on">@drawable/com_android_systemui_stat_2g3g_on</item>
     <item name="drawable/stat_3g_on">@drawable/com_android_systemui_stat_3g_on</item>
-    <item name="drawable/stat_airplane_off">@drawable/com_android_systemui_stat_airplane_off</item>    <item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
+    <item name="drawable/stat_airplane_off">@drawable/com_android_systemui_stat_airplane_off</item>
+    <item name="drawable/battery_low_battery">@drawable/com_android_systemui_battery_low_battery</item>
     <item name="drawable/stat_sys_ringer_silent">@drawable/com_android_systemui_stat_sys_ringer_silent</item>
     <item name="drawable/stat_sys_ringer_vibrate">@drawable/com_android_systemui_stat_sys_ringer_vibrate</item>
     <item name="drawable/stat_airplane_on">@drawable/com_android_systemui_stat_airplane_on</item>
