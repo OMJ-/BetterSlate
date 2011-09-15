@@ -355,4 +355,18 @@
 	<item name="drawable/ic_jog_dial_unlock">@drawable/frameworks_res_ic_jog_dial_unlock</item>
 	<item name="drawable/ic_jog_dial_vibrate_on">@drawable/frameworks_res_ic_jog_dial_vibrate_on</item>
 	<item name="drawable/ic_launcher_android">@drawable/frameworks_res_ic_launcher_android</item>
+	<item name="drawable/stat_sys_battery_15.png">@drawable/frameworks_res_stat_sys_battery_15.png</item>
+	<item name="drawable/stat_sys_battery_25.png">@drawable/frameworks_res_stat_sys_battery_25.png</item>
+	<item name="drawable/stat_sys_battery_30.png">@drawable/frameworks_res_stat_sys_battery_30.png</item>
+	<item name="drawable/stat_sys_battery_35.png">@drawable/frameworks_res_stat_sys_battery_35.png</item>
+	<item name="drawable/stat_sys_battery_45.png">@drawable/frameworks_res_stat_sys_battery_45.png</item>
+	<item name="drawable/stat_sys_battery_5.png">@drawable/frameworks_res_stat_sys_battery_5.png</item>
+	<item name="drawable/stat_sys_battery_50.png">@drawable/frameworks_res_stat_sys_battery_50.png</item>
+	<item name="drawable/stat_sys_battery_55.png">@drawable/frameworks_res_stat_sys_battery_55.png</item>
+	<item name="drawable/stat_sys_battery_65.png">@drawable/frameworks_res_stat_sys_battery_65.png</item>
+	<item name="drawable/stat_sys_battery_70.png">@drawable/frameworks_res_stat_sys_battery_70.png</item>
+	<item name="drawable/stat_sys_battery_75.png">@drawable/frameworks_res_stat_sys_battery_75.png</item>
+	<item name="drawable/stat_sys_battery_85.png">@drawable/frameworks_res_stat_sys_battery_85.png</item>
+	<item name="drawable/stat_sys_battery_90.png">@drawable/frameworks_res_stat_sys_battery_90.png</item>
+	<item name="drawable/stat_sys_battery_95.png">@drawable/frameworks_res_stat_sys_battery_95.png</item>
 </resource-redirections>
