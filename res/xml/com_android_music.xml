@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+<item name="drawable/app_music">@drawable/com_android_music_app_music</item>
+</resource-redirections>
