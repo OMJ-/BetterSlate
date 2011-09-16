@@ -14,4 +14,4 @@
 	<package-redirections android:name="com.android.calculator" android:resource="@xml/com_android_calculator" android:minSdkVersion="7" />
 	<package-redirections android:name="com.android.browser" android:resource="@xml/com_android_browser" android:minSdkVersion="7" />
 	<package-redirections android:name="com.android.contacts" android:resource="@xml/com_android_contacts" android:minSdkVersion="7" />
-    </theme-redirections>
+</theme-redirections>

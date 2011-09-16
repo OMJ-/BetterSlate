@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
-<item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
-<item name="drawable/picture_unknown">@drawable/com_android_phone_picture_unknown</item>
+    <item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
+    <item name="drawable/picture_unknown">@drawable/com_android_phone_picture_unknown</item>
 </resource-redirections>

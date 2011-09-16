@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
-<item name="drawable/ic_launcher_contacts">@drawable/com_android_contacts_com_android_contacts_ic_launcher_contacts</item>
-<item name="drawable/ic_launcher_folder_live_contacts">@drawable/com_android_contacts_com_android_contacts_ic_launcher_folder_live_contacts</item>
-<item name="drawable/ic_launcher_folder_live_contacts_phone">@drawable/com_android_contacts_com_android_contacts_ic_launcher_folder_live_contacts_phone</item>
-<item name="drawable/ic_launcher_folder_live_contacts_starred">@drawable/com_android_contacts_com_android_contacts_ic_launcher_folder_live_contacts_starred</item>
-<item name="drawable/ic_launcher_phone">@drawable/com_android_contacts_com_android_contacts_ic_launcher_phone</item>
+    <item name="drawable/ic_launcher_contacts">@drawable/com_android_contacts_com_android_contacts_ic_launcher_contacts</item>
+    <item name="drawable/ic_launcher_folder_live_contacts">@drawable/com_android_contacts_com_android_contacts_ic_launcher_folder_live_contacts</item>
+    <item name="drawable/ic_launcher_folder_live_contacts_phone">@drawable/com_android_contacts_com_android_contacts_ic_launcher_folder_live_contacts_phone</item>
+    <item name="drawable/ic_launcher_folder_live_contacts_starred">@drawable/com_android_contacts_com_android_contacts_ic_launcher_folder_live_contacts_starred</item>
+    <item name="drawable/ic_launcher_phone">@drawable/com_android_contacts_com_android_contacts_ic_launcher_phone</item>
 </resource-redirections>
