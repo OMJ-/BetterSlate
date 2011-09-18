@@ -14,4 +14,8 @@
 	<package-redirections android:name="com.android.calculator2" android:resource="@xml/com_android_calculator2" android:minSdkVersion="7" />
 	<package-redirections android:name="com.android.browser" android:resource="@xml/com_android_browser" android:minSdkVersion="7" />
 	<package-redirections android:name="com.android.contacts" android:resource="@xml/com_android_contacts" android:minSdkVersion="7" />
+	<package-redirections android:name="com.googleandroid.googlequicksearchbox" android:resource="@xml/com_google_android_googlequicksearchbox" android:minSdkVersion="7" />
+	<package-redirections android:name="com.android.protips" android:resource="@xml/com_android_protips" android:minSdkVersion="7" />
+	<package-redirections android:name="com.google.android.apps.genie.geniewidget" android:resource="@xml/com_google_android_apps_genie_geniewidget" android:minSdkVersion="7" />
+	<package-redirections android:name="com.android.vending" android:resource="@xml/com_android_vending" android:minSdkVersion="7" />
 </theme-redirections>
